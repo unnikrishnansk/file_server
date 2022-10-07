@@ -1,0 +1,2 @@
+
+In public folder you would have all your compiled and minified scripts for production. So css and js should be in the resources/assets and then compiled and published to the public part.

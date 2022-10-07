@@ -1,0 +1,1 @@
+JS (JavaScript) are files that contain JavaScript code for execution on web pages. JavaScript files are stored with the . js extension. Inside the HTML document, you can either embed the JavaScript code using the <script></script> tags or include a JS file.

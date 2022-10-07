@@ -1,0 +1,1 @@
+Definition and Usage. The src attribute specifies the URL of an external script file. If you want to run the same JavaScript on several pages in a web site, you should create an external JavaScript file, instead of writing the same script over and over again.
